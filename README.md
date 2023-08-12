@@ -2,7 +2,7 @@
 
 <h3>Projeto Aplicativo Console </h3>
 
-<h5>Calcular a área dos objetos utilizando abstração e interface desacopladas</h5>
+<h5>Calcular a área dos objetos utilizando abstração e interfaces desacopladas</h5>
 
 
 ## Sobre:
